@@ -1,20 +1,17 @@
 {
   "files": {
-    "main.css": "//kimmoya.github.io/movie_app_2021/static/css/main.97be8b00.chunk.css",
-    "main.js": "//kimmoya.github.io/movie_app_2021/static/js/main.c4421233.chunk.js",
-    "main.js.map": "//kimmoya.github.io/movie_app_2021/static/js/main.c4421233.chunk.js.map",
+    "main.js": "//kimmoya.github.io/movie_app_2021/static/js/main.8db9f398.chunk.js",
+    "main.js.map": "//kimmoya.github.io/movie_app_2021/static/js/main.8db9f398.chunk.js.map",
     "runtime-main.js": "//kimmoya.github.io/movie_app_2021/static/js/runtime-main.fcf1cc0a.js",
     "runtime-main.js.map": "//kimmoya.github.io/movie_app_2021/static/js/runtime-main.fcf1cc0a.js.map",
-    "static/js/2.915a66f4.chunk.js": "//kimmoya.github.io/movie_app_2021/static/js/2.915a66f4.chunk.js",
-    "static/js/2.915a66f4.chunk.js.map": "//kimmoya.github.io/movie_app_2021/static/js/2.915a66f4.chunk.js.map",
+    "static/js/2.2ccea435.chunk.js": "//kimmoya.github.io/movie_app_2021/static/js/2.2ccea435.chunk.js",
+    "static/js/2.2ccea435.chunk.js.map": "//kimmoya.github.io/movie_app_2021/static/js/2.2ccea435.chunk.js.map",
     "index.html": "//kimmoya.github.io/movie_app_2021/index.html",
-    "static/css/main.97be8b00.chunk.css.map": "//kimmoya.github.io/movie_app_2021/static/css/main.97be8b00.chunk.css.map",
-    "static/js/2.915a66f4.chunk.js.LICENSE.txt": "//kimmoya.github.io/movie_app_2021/static/js/2.915a66f4.chunk.js.LICENSE.txt"
+    "static/js/2.2ccea435.chunk.js.LICENSE.txt": "//kimmoya.github.io/movie_app_2021/static/js/2.2ccea435.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.fcf1cc0a.js",
-    "static/js/2.915a66f4.chunk.js",
-    "static/css/main.97be8b00.chunk.css",
-    "static/js/main.c4421233.chunk.js"
+    "static/js/2.2ccea435.chunk.js",
+    "static/js/main.8db9f398.chunk.js"
   ]
 }
