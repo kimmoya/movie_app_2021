@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "//kimmoya.github.io/movie_app_2021/static/css/main.1abfd5e8.chunk.css",
-    "main.js": "//kimmoya.github.io/movie_app_2021/static/js/main.3bfe6754.chunk.js",
-    "main.js.map": "//kimmoya.github.io/movie_app_2021/static/js/main.3bfe6754.chunk.js.map",
+    "main.js": "//kimmoya.github.io/movie_app_2021/static/js/main.b16913de.chunk.js",
+    "main.js.map": "//kimmoya.github.io/movie_app_2021/static/js/main.b16913de.chunk.js.map",
     "runtime-main.js": "//kimmoya.github.io/movie_app_2021/static/js/runtime-main.fcf1cc0a.js",
     "runtime-main.js.map": "//kimmoya.github.io/movie_app_2021/static/js/runtime-main.fcf1cc0a.js.map",
     "static/js/2.d18f8d40.chunk.js": "//kimmoya.github.io/movie_app_2021/static/js/2.d18f8d40.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.fcf1cc0a.js",
     "static/js/2.d18f8d40.chunk.js",
     "static/css/main.1abfd5e8.chunk.css",
-    "static/js/main.3bfe6754.chunk.js"
+    "static/js/main.b16913de.chunk.js"
   ]
 }
